@@ -7,7 +7,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
-	<classpathentry kind="lib" path="C:/Users/study/Documents/EclipseProjects/Complejos/Luca-Steam_v5/properties"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/alumno/Desktop/RepoPrueba/repo-prueba/Luca-Steam_v5/properties"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
