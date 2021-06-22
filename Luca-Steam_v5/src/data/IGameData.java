@@ -10,4 +10,7 @@ public interface IGameData {
 	//public void listGames();
 	
 	//Vamos a ver si llega esta mierda
+
+//HOLI
+
 }
